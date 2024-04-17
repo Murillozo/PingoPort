@@ -11,3 +11,5 @@ IMAGENS DO PROGRAMA:
 ![pingo](https://github.com/Murillozo/PingoPort/assets/130245558/ca1e62b2-6c69-4101-8e8b-9ab0332e38e1)
 
 
+NOTAS:
+Existe algumas funçoes que não funcionam.... Mas eu garanto que todos os Scan funcionam, caso quiser fazer update fiquem avontade. :-)
